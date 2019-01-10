@@ -1,4 +1,5 @@
-import 'vue-smooth-dnd'
+//import 'vue-smooth-dnd'
+import { Container, Draggable } from 'vue-smooth-dnd'
 
 describe('ONE', () => {
   it('one', () => {
